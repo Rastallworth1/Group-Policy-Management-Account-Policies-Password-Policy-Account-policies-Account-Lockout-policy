@@ -49,7 +49,7 @@ Let's start with modifying the Password Policy. First, select "Password Policy,"
 <img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%206.png"/>
 <br />
 <br />
-<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/join%20pc%207%20p3.png"/>
+<img src="https://github.com/Rastallworth1/Group-Policy-Management-Account-Policies-Password-Policy-Account-policies-Account-Lockout-policy/blob/main/Screenshot%206%20pt%202.png"/>
 <br />
 
 
