@@ -27,7 +27,7 @@ Once you are in the Group Policy Management window, locate and select the "Defau
 
 
 <br /> To proceed, click on the "Settings" option located at the top of the screen. Then, scroll down until you come across the "Account Policies" section. Here, you can review your current policies and decide whether they align with your organization's needs. Depending on your internet settings, you might encounter another pop-up message. If that happens, simply close it. For the purposes of this lab, we will be modifying two settings: the maximum password age (which determines how long before a password expires) and the account lockout threshold (which determines the number of login attempts before an account is locked). Please note that the specific values for these settings may be predefined by your organization.  <br/>
-<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/join%20pc%203.png"/>
+<img src="https://github.com/Rastallworth1/Group-Policy-Management-Account-Policies-Password-Policy-Account-policies-Account-Lockout-policy/blob/main/Screenshot%203.png"/>
 <br />
 
 
