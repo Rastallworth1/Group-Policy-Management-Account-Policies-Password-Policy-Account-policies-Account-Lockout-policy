@@ -33,7 +33,7 @@ Once you are in the Group Policy Management window, locate and select the "Defau
 
 <br />
 To edit these policies, right click on Default Domain Policy and select edit.  <br/>
-<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/PC%20join%204.png"/>
+<img src="https://github.com/Rastallworth1/Group-Policy-Management-Account-Policies-Password-Policy-Account-policies-Account-Lockout-policy/blob/main/Screenshot%204.png"/>
 <br />
 
 
