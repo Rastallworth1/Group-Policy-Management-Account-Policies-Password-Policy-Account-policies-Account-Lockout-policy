@@ -46,7 +46,7 @@ Be prepared to do a fair amount of clicking now. In the Group Policy Management 
 
   <br />
 Let's start with modifying the Password Policy. First, select "Password Policy," and then choose "Maximum Password Age." Here, you can make changes to the policy. For this lab, we will set it to 90 days. Ensure that "Define this policy setting" is selected, then click on "Apply" and "OK." By doing so, all domain accounts will have their passwords expire after 90 days. However, please note that the specific number of days may vary depending on your organization's policies. A general rule of thumb is anywhere between 30 to 90 days.  <br/>
-<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%206.png"/>
+<img src="https://github.com/Rastallworth1/Group-Policy-Management-Account-Policies-Password-Policy-Account-policies-Account-Lockout-policy/blob/main/Screenshot%206%2C%20pt%201.png"/>
 <br />
 <br />
 <img src="https://github.com/Rastallworth1/Group-Policy-Management-Account-Policies-Password-Policy-Account-policies-Account-Lockout-policy/blob/main/Screenshot%206%20pt%202.png"/>
