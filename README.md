@@ -22,7 +22,7 @@ To begin, navigate to the Server Manager Dashboard, then choose the "Tools" opti
 
 <br />
 Once you are in the Group Policy Management window, locate and select the "Default Domain Policy" option. When you click on it, a pop-up message will appear, warning you that any changes made will affect other areas. You can choose to click "OK" and, if you prefer, select the option "don't show this message again."<br/>
-<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/join%20pc%202.png"/>
+<img src="https://github.com/Rastallworth1/Group-Policy-Management-Account-Policies-Password-Policy-Account-policies-Account-Lockout-policy/blob/main/Screenshot%202.png"/>
 <br />
 
 
