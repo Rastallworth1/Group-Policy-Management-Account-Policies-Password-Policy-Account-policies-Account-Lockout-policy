@@ -62,7 +62,7 @@ Next, we will edit the Account Lockout Policy. To do so, select "Account Lockout
 
 <br />
 Finally, let's verify that the changes we made have been saved. Go back to the original "Default Domain Policy" settings and you should see that the modifications have been applied. Please note that there may be other items that can be changed, and you can use the same steps to make additional modifications to the Account Lockout and Password Policies as needed.  <br/>
-<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%208%20pt%201.png"/>
+<img src="https://github.com/Rastallworth1/Group-Policy-Management-Account-Policies-Password-Policy-Account-policies-Account-Lockout-policy/blob/main/Screenshot%208.png"/>
 <br />
 
  
