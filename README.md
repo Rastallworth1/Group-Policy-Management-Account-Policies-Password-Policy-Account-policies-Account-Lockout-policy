@@ -16,7 +16,7 @@ During this laboratory session, we will be learning about configuring account po
 
 <p align="center">
 To begin, navigate to the Server Manager Dashboard, then choose the "Tools" option and scroll down to select "Group Policy Management". <br/>
-<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%201.png"/>
+<img src="https://github.com/Rastallworth1/Group-Policy-Management-Account-Policies-Password-Policy-Account-policies-Account-Lockout-policy/blob/main/Screenshot%201.png"/>
 <br />
 
 
