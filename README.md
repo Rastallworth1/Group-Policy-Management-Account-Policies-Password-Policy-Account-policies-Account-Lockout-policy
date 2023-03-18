@@ -55,7 +55,7 @@ Let's start with modifying the Password Policy. First, select "Password Policy,"
 
 <br />
 Next, we will edit the Account Lockout Policy. To do so, select "Account Lockout Policy," and then choose "Account Lockout Threshold." You will have the option to make changes here. For this lab, we will set it to 3 attempts. Again, make sure that "Define this policy setting" is selected, then click on "Apply" and "OK." This will set the maximum number of login attempts to 3 for all accounts in the domain.  <br/>
-<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%207%20p1.png"/>
+<img src="https://github.com/Rastallworth1/Group-Policy-Management-Account-Policies-Password-Policy-Account-policies-Account-Lockout-policy/blob/main/Screenshot%207.png"/>
 <br />
 
 
