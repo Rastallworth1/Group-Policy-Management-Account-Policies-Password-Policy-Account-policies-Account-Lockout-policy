@@ -39,7 +39,7 @@ To edit these policies, right click on Default Domain Policy and select edit.  <
 
 <br />
 Be prepared to do a fair amount of clicking now. In the Group Policy Management Editor, double-click on "Policies" under the "Computer Configuration" section. Next, double-click on "Windows Settings," followed by "Security Settings," and then "Account Policies." From there, you will see the options for "Password Policy," "Account Lockout Policy," or "Kerberos Policy." As you can see, this involves a fair bit of navigation.   <br/>
-<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/join%20PC%205.png"/>
+<img src="https://github.com/Rastallworth1/Group-Policy-Management-Account-Policies-Password-Policy-Account-policies-Account-Lockout-policy/blob/main/Screenshot%205.png"/>
 <br />
 
 
